@@ -1,7 +1,8 @@
+# .travis.yml file
 language: node_js
 node_js:
   - "node"
-  - "8"
+  - "7"
 install:
   - npm install
 script:
